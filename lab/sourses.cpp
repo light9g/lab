@@ -1,0 +1,5 @@
+#include "form1.h"
+#include "workers.h"
+#include "graphic.h"
+#include "sells.h"
+#include "calculate.h"

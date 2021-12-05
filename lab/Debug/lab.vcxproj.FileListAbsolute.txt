@@ -1,0 +1,7 @@
+C:\Users\User\source\projects\lab\lab\Debug\lab.vcxproj.AssemblyReference.cache
+C:\Users\User\source\projects\lab\lab\Debug\lab.form1.resources
+C:\Users\User\source\projects\lab\lab\Debug\lab.vcxproj.GenerateResource.cache
+C:\Users\User\source\projects\lab\lab\Debug\lab.workers.resources
+C:\Users\User\source\projects\lab\lab\Debug\lab.graphic.resources
+C:\Users\User\source\projects\lab\lab\Debug\lab.sells.resources
+C:\Users\User\source\projects\lab\lab\Debug\lab.calculate.resources

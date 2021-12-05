@@ -1,0 +1,13 @@
+﻿  calculate.cpp
+  form1.cpp
+C:\Users\User\source\projects\lab\lab\form1.h(1120,20): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\User\source\projects\lab\lab\form1.h(1156,20): warning C4101: ex: неиспользованная локальная переменная
+  graphic.cpp
+  sells.cpp
+  sourses.cpp
+C:\Users\User\source\projects\lab\lab\form1.h(1120,20): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\User\source\projects\lab\lab\form1.h(1156,20): warning C4101: ex: неиспользованная локальная переменная
+  workers.cpp
+  Создание кода...
+  calculate.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab.vcxproj -> C:\Users\User\source\projects\lab\Debug\lab.exe
